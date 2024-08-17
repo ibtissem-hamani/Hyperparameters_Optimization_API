@@ -1,7 +1,7 @@
 
 var app={}, image=null,algo=null,MC=null, meilleur=null,
 possition=[-0.6263393260559269, 35.69585752473928],
-COLLECTION_ID = 'LANDSAT/LC08/C01/T1_TOA',
+COLLECTION_ID = 'LANDSAT/LC08/C02/T1_TOA',
 bands = ['B1','B2', 'B3', 'B4', 'B5', 'B6', 'B7'],
 classes_App=[mer_a,sebkha_a,urbain_a,vegetation_a],
 classes_Val=[mer,sebkha,urbain,vegetation],
