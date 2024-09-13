@@ -3,7 +3,7 @@ Most supervised classification algorithms have hyper parameters (the parameters 
 
 ## objective
 This APP allows you to classify a Lansat-8 image with Random Forest, Cart or Svm with the best HyperParameters with and without texture [link to our exemple](https://ibtissem.users.earthengine.app/view/hyperparameters-optimization-app).
-![Dataset](https://user-images.githubusercontent.com/101288856/192164692-928a1a87-2407-4fca-896e-82b0df3b5eac.png)
+![Platforme](https://github.com/user-attachments/assets/16f2c0aa-7bb6-495c-ad59-9ab8c5963b00)
 
 ## Technique
 The traditional technique for optimizing hyperparameters is the Grid research method. Which consists of testing all the possible combinations of the hyper parameters that
